@@ -71,6 +71,12 @@ namespace C__Wed_26_6
             string sign = Convert.ToString(sign2);
             Console.WriteLine("the sign of -24 is " + sign[0]);
 
+            // the following method was mentioned while discussing the tasks so i tried it. format number to have a sign if > or < than 0. 0 doesn't have a sign in the format i choose
+            string sign3 = num3.ToString("+#;-#;0");
+            string sign4 = num4.ToString("+#;-#;0");
+            Console.WriteLine("the sign of 7 is " + sign3[0]);
+            Console.WriteLine("the sign of -24 is " + sign4[0]);
+
 
             Console.WriteLine("");
 
