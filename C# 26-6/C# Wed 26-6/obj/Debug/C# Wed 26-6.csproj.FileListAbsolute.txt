@@ -1,0 +1,14 @@
+C:\Users\Orange\Desktop\tasks - clone\C# Wed 26-6\C# Wed 26-6\bin\Debug\C# Wed 26-6.exe.config
+C:\Users\Orange\Desktop\tasks - clone\C# Wed 26-6\C# Wed 26-6\bin\Debug\C# Wed 26-6.exe
+C:\Users\Orange\Desktop\tasks - clone\C# Wed 26-6\C# Wed 26-6\bin\Debug\C# Wed 26-6.pdb
+C:\Users\Orange\Desktop\tasks - clone\C# Wed 26-6\C# Wed 26-6\obj\Debug\C# Wed 26-6.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\tasks - clone\C# Wed 26-6\C# Wed 26-6\obj\Debug\C# Wed 26-6.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\tasks - clone\C# Wed 26-6\C# Wed 26-6\obj\Debug\C# Wed 26-6.exe
+C:\Users\Orange\Desktop\tasks - clone\C# Wed 26-6\C# Wed 26-6\obj\Debug\C# Wed 26-6.pdb
+C:\Users\Orange\Desktop\tasks - clone\C# 26-6\C# Wed 26-6\obj\Debug\C# Wed 26-6.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\tasks - clone\C# 26-6\C# Wed 26-6\obj\Debug\C# Wed 26-6.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\tasks - clone\C# 26-6\C# Wed 26-6\obj\Debug\C# Wed 26-6.exe
+C:\Users\Orange\Desktop\tasks - clone\C# 26-6\C# Wed 26-6\obj\Debug\C# Wed 26-6.pdb
+C:\Users\Orange\Desktop\tasks - clone\C# 26-6\C# Wed 26-6\bin\Debug\C# Wed 26-6.exe.config
+C:\Users\Orange\Desktop\tasks - clone\C# 26-6\C# Wed 26-6\bin\Debug\C# Wed 26-6.exe
+C:\Users\Orange\Desktop\tasks - clone\C# 26-6\C# Wed 26-6\bin\Debug\C# Wed 26-6.pdb
