@@ -1,0 +1,14 @@
+C:\Users\Orange\Desktop\tasks - clone\C# 27-6\C# 27-6\bin\Debug\C# 27-6.exe.config
+C:\Users\Orange\Desktop\tasks - clone\C# 27-6\C# 27-6\bin\Debug\C# 27-6.exe
+C:\Users\Orange\Desktop\tasks - clone\C# 27-6\C# 27-6\bin\Debug\C# 27-6.pdb
+C:\Users\Orange\Desktop\tasks - clone\C# 27-6\C# 27-6\obj\Debug\C# 27-6.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\tasks - clone\C# 27-6\C# 27-6\obj\Debug\C# 27-6.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\tasks - clone\C# 27-6\C# 27-6\obj\Debug\C# 27-6.exe
+C:\Users\Orange\Desktop\tasks - clone\C# 27-6\C# 27-6\obj\Debug\C# 27-6.pdb
+C:\Users\Orange\Desktop\Tasks - GitHub\C-Tasks\C# 27-6\C# 27-6\bin\Debug\C# 27-6.exe.config
+C:\Users\Orange\Desktop\Tasks - GitHub\C-Tasks\C# 27-6\C# 27-6\bin\Debug\C# 27-6.exe
+C:\Users\Orange\Desktop\Tasks - GitHub\C-Tasks\C# 27-6\C# 27-6\bin\Debug\C# 27-6.pdb
+C:\Users\Orange\Desktop\Tasks - GitHub\C-Tasks\C# 27-6\C# 27-6\obj\Debug\C# 27-6.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Tasks - GitHub\C-Tasks\C# 27-6\C# 27-6\obj\Debug\C# 27-6.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Tasks - GitHub\C-Tasks\C# 27-6\C# 27-6\obj\Debug\C# 27-6.exe
+C:\Users\Orange\Desktop\Tasks - GitHub\C-Tasks\C# 27-6\C# 27-6\obj\Debug\C# 27-6.pdb
