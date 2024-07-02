@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\tasks - clone\C# 2-7\C# 2-7\bin\Debug\C# 2-7.exe.config
+C:\Users\Orange\Desktop\tasks - clone\C# 2-7\C# 2-7\bin\Debug\C# 2-7.exe
+C:\Users\Orange\Desktop\tasks - clone\C# 2-7\C# 2-7\bin\Debug\C# 2-7.pdb
+C:\Users\Orange\Desktop\tasks - clone\C# 2-7\C# 2-7\obj\Debug\C# 2-7.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\tasks - clone\C# 2-7\C# 2-7\obj\Debug\C# 2-7.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\tasks - clone\C# 2-7\C# 2-7\obj\Debug\C# 2-7.exe
+C:\Users\Orange\Desktop\tasks - clone\C# 2-7\C# 2-7\obj\Debug\C# 2-7.pdb
