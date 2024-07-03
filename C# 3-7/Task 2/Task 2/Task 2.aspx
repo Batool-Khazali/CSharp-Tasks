@@ -10,6 +10,9 @@
     <title></title>
 </head>
 <body>
+
+    <%--the form is a template from https://codepen.io/chetanhaobijam/pen/ZEQeYNP WITHOUT the JS--%>
+
     <form id="form1" runat="server">
         <div>
 
@@ -18,7 +21,7 @@
               <form>
 
                 <div class="form-inline">
-                    <asp:TextBox ID="firstNumber" runat="server" CssClass="form-control" placeholder="Enter your 1st number"></asp:TextBox>
+                    <asp:TextBox TextMode="Number" ID="firstNumber" runat="server" CssClass="form-control" placeholder="Enter your 1st number"></asp:TextBox>
                     <asp:TextBox ID="secondNumber" runat="server" CssClass="form-control" placeholder="Enter your 2nd number"></asp:TextBox>
                 </div>
 

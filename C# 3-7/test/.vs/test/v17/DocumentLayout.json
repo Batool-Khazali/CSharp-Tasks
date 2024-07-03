@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Notes\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|c:\\users\\orange\\desktop\\notes\\test\\test\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|solutionrelative:test\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\contacts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|solutionrelative:test\\contacts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|c:\\users\\orange\\desktop\\notes\\test\\test\\page 2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|solutionrelative:test\\page 2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\page 2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|solutionrelative:test\\page 2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\page 1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|solutionrelative:test\\page 1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\contacts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F9967D-659E-406D-98AB-83B59331775B}|test\\test.csproj|solutionrelative:test\\contacts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 238,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "page 2.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\page 2.aspx",
+              "RelativeDocumentMoniker": "test\\page 2.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\page 2.aspx",
+              "RelativeToolTip": "test\\page 2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T08:17:55.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "page 2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\page 2.aspx.cs",
+              "RelativeDocumentMoniker": "test\\page 2.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\page 2.aspx.cs",
+              "RelativeToolTip": "test\\page 2.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:34:05.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contacts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\contacts.aspx.cs",
+              "RelativeDocumentMoniker": "test\\contacts.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\contacts.aspx.cs",
+              "RelativeToolTip": "test\\contacts.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:02:27.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contacts.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\contacts.aspx",
+              "RelativeDocumentMoniker": "test\\contacts.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\contacts.aspx",
+              "RelativeToolTip": "test\\contacts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T11:31:57.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\Index.aspx",
+              "RelativeDocumentMoniker": "test\\Index.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\Index.aspx",
+              "RelativeToolTip": "test\\Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T08:56:57.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "page 1.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\page 1.aspx",
+              "RelativeDocumentMoniker": "test\\page 1.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Notes\\test\\test\\page 1.aspx",
+              "RelativeToolTip": "test\\page 1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T08:14:15.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

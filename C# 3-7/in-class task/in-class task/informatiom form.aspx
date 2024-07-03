@@ -8,6 +8,9 @@
     <title></title>
 </head>
 <body>
+
+    <%--the form is a template from https://formbold.com/templates/survey-form--%>
+
     <form id="form1" runat="server">
         <div> 
             <div class="formbold-main-wrapper">
