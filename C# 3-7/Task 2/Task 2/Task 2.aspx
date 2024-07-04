@@ -21,7 +21,7 @@
               <form>
 
                 <div class="form-inline">
-                    <asp:TextBox TextMode="Number" ID="firstNumber" runat="server" CssClass="form-control" placeholder="Enter your 1st number"></asp:TextBox>
+                    <asp:TextBox ID="firstNumber" runat="server" CssClass="form-control" placeholder="Enter your 1st number"></asp:TextBox>
                     <asp:TextBox ID="secondNumber" runat="server" CssClass="form-control" placeholder="Enter your 2nd number"></asp:TextBox>
                 </div>
 
